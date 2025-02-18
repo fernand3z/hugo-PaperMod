@@ -7,14 +7,14 @@
     --footer-height: 60px;
     --radius: 8px;
     /* Light theme using Anti-Flash White and Chinese White */
-    --theme: rgb(245, 245, 245);    /* White #FFFFFF */
+    --theme: rgb(255, 255, 255);    /* White #FFFFFF */
     --entry: rgb(243, 243, 243);    /* Anti-Flash White #F3F3F3 */
     --primary: rgb(27, 27, 27);     /* Eerie Black #1B1B1B */
     --secondary: rgb(20, 20, 20);   /* Chinese Black #141414 */
     --tertiary: rgb(225, 225, 225); /* Chinese White #E1E1E1 */
     --content: rgb(0, 0, 0);        /* Pure Black #000000 */
-    --code-block-bg: rgb(243, 243, 243); /* Anti-Flash White #F3F3F3 */
-    --code-bg: rgb(225, 225, 225);  /* Chinese White #E1E1E1 */
+    --code-block-bg: rgb(65, 65, 65); /* Dark Gray for code blocks */
+    --code-bg: rgb(65, 65, 65);     /* Dark Gray for inline code */
     --border: rgb(225, 225, 225);   /* Chinese White #E1E1E1 */
 }
 
