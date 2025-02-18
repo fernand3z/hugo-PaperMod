@@ -13,8 +13,8 @@
     --secondary: rgb(20, 20, 20);   /* Chinese Black #141414 */
     --tertiary: rgb(225, 225, 225); /* Chinese White #E1E1E1 */
     --content: rgb(0, 0, 0);        /* Pure Black #000000 */
-    --code-block-bg: rgb(65, 65, 65); /* Dark Gray for code blocks */
-    --code-bg: rgb(65, 65, 65);     /* Dark Gray for inline code */
+    --code-block-bg: rgb(121, 121, 121); /* Dark Gray for code blocks */
+    --code-bg: rgb(255, 255, 255);     /* Dark Gray for inline code */
     --border: rgb(225, 225, 225);   /* Chinese White #E1E1E1 */
 }
 
