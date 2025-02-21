@@ -20,7 +20,8 @@
 
 .dark {
     /* Dark theme using blacks */
-    --theme: rgb(0, 0, 0);          /* Pure Black #000000 */
+    /* DEBUG: Background color updated to #0A0A0A for darker theme */
+    --theme: rgb(10, 10, 10);       /* Very Dark Gray #0A0A0A */
     --entry: rgb(20, 20, 20);       /* Chinese Black #141414 */
     --primary: rgb(243, 243, 243);  /* Anti-Flash White #F3F3F3 */
     --secondary: rgb(225, 225, 225);/* Chinese White #E1E1E1 */
